@@ -1,6 +1,6 @@
 
 
-# master **b1 conflicting commit
+# master **b1 conflict
 
-#angelica, peggy, eliza, work
+#angelica, peggy, eliza
 
