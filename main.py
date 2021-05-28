@@ -1,8 +1,6 @@
 
-#a
-#b
-#c
 
+# master **b1 conflict
 
-#angelica, peggy, eliza, work
+#angelica, peggy, eliza
 
